@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/gfx">
+        <file alias="ball">res/ball.jpg</file>
+        <file alias="wall">res/wall.jpg</file>
+    </qresource>
+    <qresource prefix="/gfx/bg">
+        <file alias="o_68bfe7468307d7de-0">res/bg/o_68bfe7468307d7de-0.png</file>
+        <file alias="o_68bfe7468307d7de-1">res/bg/o_68bfe7468307d7de-1.png</file>
+        <file alias="o_68bfe7468307d7de-2">res/bg/o_68bfe7468307d7de-2.png</file>
+        <file alias="o_68bfe7468307d7de-3">res/bg/o_68bfe7468307d7de-3.png</file>
+        <file alias="o_68bfe7468307d7de-4">res/bg/o_68bfe7468307d7de-4.png</file>
+        <file alias="o_68bfe7468307d7de-5">res/bg/o_68bfe7468307d7de-5.png</file>
+        <file alias="o_68bfe7468307d7de-6">res/bg/o_68bfe7468307d7de-6.png</file>
+        <file alias="o_68bfe7468307d7de-7">res/bg/o_68bfe7468307d7de-7.png</file>
+        <file alias="o_68bfe7468307d7de-8">res/bg/o_68bfe7468307d7de-8.png</file>
+        <file alias="o_68bfe7468307d7de-9">res/bg/o_68bfe7468307d7de-9.png</file>
+        <file alias="o_68bfe7468307d7de-10">res/bg/o_68bfe7468307d7de-10.png</file>
+        <file alias="o_68bfe7468307d7de-11">res/bg/o_68bfe7468307d7de-11.png</file>
+    </qresource>
+</RCC>
